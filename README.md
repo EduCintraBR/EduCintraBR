@@ -1,16 +1,25 @@
-### Hi there 👋
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/EduCintraBR)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/educintrabr/)](https://www.linkedin.com/in/educintrabr/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:educin15@gmail.com)](mailto:educin15@gmail.com)
 
-<!--
-**EduCintraBR/EduCintraBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! 👋 Welcome to my Github profile
 
-Here are some ideas to get you started:
+My name is Eduardo and I'm a Brazilian fullstack developer. I'm interested to improve my skills as a developer and learn about technologies/tools that will make my develop environment much better. Currently, I'm in love with Javascript/Typescript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: My current stack:
+ - **Programming languages**: Python, JavaScript/TypeScript, Node.js 
+ - **Frameworks**: Express.js, React, Nextjs
+ - **Database**: PostgreSQL, Firebase Firestore, Oracle and MySQL
+ - **Other tools**: Git, Linux;
+  
+### 📚 I’m currently learning: 
+ - **Programming Languages**: Javascript/TypeScript 
+ - **Frameworks**: Nextjs, Nestjs, Gatsby, React Native
+ - **Other tools**: GraphQL, Knex
+  
+### 💻 My Development Everionment:
+ - **System Operation**: Windows 10, Linux Mint
+ - **Terminal**: ZSH in linux or default CMD in Windows
+ - **Editor**: VSCode
+ - **Most used tools**: Git, Insomnia
+  
