@@ -13,9 +13,9 @@ My name is Eduardo and I'm a Brazilian fullstack developer. I'm interested to im
  - **Other tools**: Git, Linux;
   
 ### 📚 I’m currently learning: 
- - **Programming Languages**: Javascript/TypeScript 
+ - **Programming Languages**: C#, .NET Core 
  - **Frameworks**: Nextjs, Nestjs, Gatsby, React Native
- - **Other tools**: GraphQL, Knex
+ - **Other tools**: EF Core, Dapper
   
 ### 💻 My Development Everionment:
  - **System Operation**: Windows 10, Linux Mint
