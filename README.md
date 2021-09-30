@@ -7,14 +7,14 @@
 My name is Eduardo and I'm a Brazilian fullstack developer. I'm interested to improve my skills as a developer and learn about technologies/tools that will make my develop environment much better. Currently, I'm in love with Javascript/Typescript.
 
 ### :man_technologist: My current stack:
- - **Programming languages**: Python, JavaScript/TypeScript, C# 
- - **Frameworks**: Express.js, React, Nextjs
+ - **Programming languages**: Python, JavaScript/TypeScript, C#, .NET Core 
+ - **Frameworks**: Express.js, React, Nextjs, Angular
  - **Database**: PostgreSQL, Firebase Firestore, Oracle, Sql Server and MySQL
  - **Other tools**: Git, Linux;
   
 ### 📚 I’m currently learning: 
- - **Programming Languages**: C#, .NET Core 
- - **Frameworks**: Nextjs, Nestjs, Gatsby, React Native
+ - **Programming Languages**: C#, .NET Core
+ - **Frameworks**: Angular
  - **Other tools**: EF Core, Dapper
   
 ### 💻 My Development Everionment:
