@@ -8,9 +8,9 @@ My name is Eduardo and I'm a Brazilian fullstack developer. I'm interested to im
 
 ### :man_technologist: My current stack:
  - **Programming languages**: Python, JavaScript/TypeScript, C#, .NET Core 
- - **Frameworks**: Express.js, React, Nextjs, Angular
- - **Database**: PostgreSQL, Firebase Firestore, Oracle, Sql Server and MySQL
- - **Other tools**: Git, Linux;
+ - **Frameworks**: Angular
+ - **Database**: Sql Server, Oracle and MySQL
+ - **Other tools**: Git, Gitlab, Azure DevOps;
   
 ### 📚 I’m currently learning: 
  - **Programming Languages**: C#, .NET Core
@@ -18,8 +18,8 @@ My name is Eduardo and I'm a Brazilian fullstack developer. I'm interested to im
  - **Other tools**: EF Core, Dapper
   
 ### 💻 My Development Everionment:
- - **System Operation**: Windows 10, Linux Mint
+ - **System Operation**: Windows 11
  - **Terminal**: ZSH in linux or default CMD in Windows
- - **Editor**: VSCode
- - **Most used tools**: Git, Insomnia
+ - **Editor**: Visual Studio and VSCode
+ - **Most used tools**: Git, Postman, DBeaver
   
