@@ -7,7 +7,7 @@
 My name is Eduardo and I'm a Brazilian fullstack developer. I'm interested to improve my skills as a developer and learn about technologies/tools that will make my develop environment much better. Currently, I'm in love with .NET Framework.
 
 ### :man_technologist: My current stack:
- - **Programming languages**: Python, JavaScript/TypeScript, C#, .NET Core 
+ - **Programming languages**: C#, .NET Core, JavaScript/TypeScript 
  - **Frameworks**: Angular
  - **Database**: Sql Server, Oracle and MySQL
  - **Other tools**: Git, Gitlab, Azure DevOps;
