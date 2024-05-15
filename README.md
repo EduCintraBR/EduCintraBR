@@ -13,13 +13,13 @@ My name is Eduardo and I'm a Brazilian fullstack developer. I'm interested to im
  - **Other tools**: Git, Gitlab, Azure DevOps;
   
 ### 📚 I’m currently learning: 
- - **Programming Languages**: C#, .NET Core
- - **Frameworks**: Angular
+ - **Programming Languages**: Javascript, Typescript, NodeJS, SAP BTP
+ - **Frameworks**: NextJS, NestJS
  - **Other tools**: EF Core, Dapper
   
 ### 💻 My Development Everionment:
  - **System Operation**: Windows 11
  - **Terminal**: ZSH in linux or default CMD in Windows
  - **Editor**: Visual Studio and VSCode
- - **Most used tools**: Git, Postman, DBeaver
+ - **Most used tools**: Git, Postman, Insomnia, Docker
   
