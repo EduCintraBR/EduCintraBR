@@ -8,9 +8,9 @@ My name is Eduardo and I'm a Brazilian fullstack developer. I'm interested to im
 
 ### :man_technologist: My current stack:
  - **Programming languages**: C#, .NET Core, JavaScript/TypeScript 
- - **Frameworks**: Angular, React, NextJS
+ - **Frameworks**: Angular, React, NextJS, React Native
  - **Database**: Sql Server, Oracle and MySQL
- - **Other tools**: Git, Gitlab, Azure DevOps;
+ - **Other tools**: Git, Gitlab, Azure DevOps, Expo, AI/LLM;
   
 ### 📚 I’m currently learning: 
  - **Programming Languages**: Javascript, Typescript, NodeJS, Java
